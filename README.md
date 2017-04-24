@@ -100,7 +100,7 @@ What were aspects of the presentations for which you had concerns or questions:
   
   Title of presentation: Terrorism
 What were aspects of the presentation that you liked:
-  
+  the part about selecting and dealing with variables is great
 What were aspects of the presentations for which you had concerns or questions:
   
   
