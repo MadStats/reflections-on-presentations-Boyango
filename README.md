@@ -52,9 +52,46 @@ What were aspects of the presentations for which you had concerns or questions:
 
 
 
-Title of presentation:  Crime
+Title of presentation:  GAMES
+
+What were aspects of the presentation that you liked:
+ The topic is interesting, and i thnik not many people have digged into this area.
+ 
+ 
+What were aspects of the presentations for which you had concerns or questions:
+  the project is nit functioning well, thus the image in the slides can not be seen clearly.
+  
+  
+  
+  Title of presentation:  H1B
+
+What were aspects of the presentation that you liked:
+  
+What were aspects of the presentations for which you had concerns or questions:
+  
+  
+  
+  Title of presentation:  SONGS
+
+What were aspects of the presentation that you liked:
+  
+What were aspects of the presentations for which you had concerns or questions:
+  
+  
+  
+  Title of presentation:  NBA
+
+What were aspects of the presentation that you liked:
+ 
+What were aspects of the presentations for which you had concerns or questions:
+  
+  
+  
+  
+  Title of presentation:  Crime
 
 What were aspects of the presentation that you liked:
   The data description and data exploring are well done
 What were aspects of the presentations for which you had concerns or questions:
   Perhaps new year could be added as another predictor
+  
