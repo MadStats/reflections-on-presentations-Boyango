@@ -102,5 +102,6 @@ What were aspects of the presentations for which you had concerns or questions:
 What were aspects of the presentation that you liked:
   the part about selecting and dealing with variables is great
 What were aspects of the presentations for which you had concerns or questions:
+  Too much time spent on data description
   
   
