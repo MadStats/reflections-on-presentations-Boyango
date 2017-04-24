@@ -84,9 +84,9 @@ What were aspects of the presentations for which you had concerns or questions:
   Title of presentation:  NBA
 
 What were aspects of the presentation that you liked:
- 
+  impressive opening
 What were aspects of the presentations for which you had concerns or questions:
-  
+  Some plots are better with titles
   
   
   
