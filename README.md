@@ -56,27 +56,29 @@ Title of presentation:  GAMES
 
 What were aspects of the presentation that you liked:
  The topic is interesting, and i thnik not many people have digged into this area.
- 
+ the logic of the project is very clear.
  
 What were aspects of the presentations for which you had concerns or questions:
   the project is nit functioning well, thus the image in the slides can not be seen clearly.
-  
+  Younare assuming that we know the game. Some ideas is hard for non-players to understand.
   
   
   Title of presentation:  H1B
 
 What were aspects of the presentation that you liked:
+  Graphical demostration of data is awesome.
   
 What were aspects of the presentations for which you had concerns or questions:
-  
+  the font in data description is too small to capture.
   
   
   Title of presentation:  SONGS
 
 What were aspects of the presentation that you liked:
-  
+  graphs do a good job to explain your data
+  the gif plot is interesting
 What were aspects of the presentations for which you had concerns or questions:
-  
+  the rhymes part is hard to understand
   
   
   Title of presentation:  NBA
